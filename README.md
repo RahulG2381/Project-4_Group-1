@@ -33,7 +33,7 @@ Our dataset includes "treatment", "ZDV_only_treatment","off_treatment","hemophil
 * Identifying important variables for model training
 * Identifying categorical and numerical values
 * Scaling numerical values
-* Handling Calss imbalance 
+* Handling Class imbalance 
 ![key stages of a data science project](Resources/key_stages_of_data_science_project_8e629c3b9c.png)
 
 ## Machine Learning Models
