@@ -51,7 +51,7 @@ Following bar charts are for comparing the performances for all the five models 
 ![recall_comparison](Resources/recall_comparison.png)
 
 
-Presentation's link (Googlslides' link): https://docs.google.com/presentation/d/1D3vEEJBtSdzjs0V-5wAVASOkNl1E6pXCJOlBWUzTwlU/edit#slide=id.g4dfce81f19_0_45
+Presentation's link (Googlslides' link): https://docs.google.com/presentation/d/1gmWFM0sjLZxUPmSnrR9Jce8Ue21ky5u-/edit?usp=sharing&ouid=107027819453186603412&rtpof=true&sd=true 
 
 ## Data source
 Data source: https://www.kaggle.com/datasets/aadarshvelu/aids-virus-infection-prediction/data
