@@ -42,7 +42,7 @@ Train and validate each model using appropriate evaluation metrics, such as accu
 Compare the performance of each model based on evaluation metrics to determine the most effective approach. 
 All the implemented ML models can be find in the AIDS_prediction_Final.ipynb file.
 
-According to the concept of our medical dataset and the importance of predicting individuals infected with AIDS in order to getting timely treatment, accuracy and recall for the infected class(class 1) are considered as the most important metrics for choosing the best model in this project. So Neural Network is the best model with an accuracy of 85% and a recall of 80%.
+According to the concept of our medical dataset and the importance of predicting individuals infected with AIDS in order to getting timely treatment, accuracy and recall for the infected class(class 1) are considered as the most important metrics for choosing the best model in this project. So Random Forest is the best model with an accuracy of 88% and a recall of 83%.
 
 Following bar charts are for comparing the performances for all the five models in this project:
 
